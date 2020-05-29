@@ -1,1 +1,1 @@
-# TU_FinalProject1_Bayesian-QSAR
+# TU_FinalProject2_Bayesian-QSAR
